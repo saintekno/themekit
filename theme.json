@@ -3,8 +3,11 @@
     "name": "Comel",
     "namespace": "comel",
     "version": "1.0",
+    "package": "SainTekno",
     "author": "SainTekno",
+    "author uri": "http://saintekno.id",
     "email": "sainteknoid@gmail.com",
-    "description": "Users by SainTekno"
+    "description": "Users by SainTekno",
+    "updated": "00.00.0000"
   }
 }
