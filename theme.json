@@ -1,8 +1,8 @@
 {
   "theme": {
-    "name": "Comel",
-    "namespace": "comel",
-    "version": "1.0",
+    "name": "ThemeKit",
+    "namespace": "themekit",
+    "version": "3.12",
     "package": "SainTekno",
     "author": "SainTekno",
     "author uri": "http://saintekno.id",
