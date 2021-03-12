@@ -2,8 +2,16 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 
-<?php $this->load->frontend_view('partials/header.php');?>
+<!DOCTYPE html>
+<HTML class="no-js" lang="en">
+<HEAD>
+    <?php include('partials/meta.php');?>
+</HEAD>
+<BODY>
+    <!-- Header STart -->
 
-<?php $this->load->frontend_view('pages/'.$pages.'.php');?>
-  
-<?php $this->load->frontend_view('partials/footer.php');?>
+    <?php include('pages/'.$pages.'.php');?>
+
+    <!-- javascript -->
+</BODY>
+</HTML>
