@@ -20,6 +20,3 @@ global $Options;
 
 <!-- favicon -->
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('uploads/system/'.(!empty($Options['favicon']) ? $Options['favicon'] : 'favicon.png'));?>">
-
-<!--====== Plugins CSS Files =======-->
-<!--====== Custom CSS Files ======-->
