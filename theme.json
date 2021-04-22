@@ -2,8 +2,8 @@
   "theme": {
     "name": "ThemeKit",
     "namespace": "themekit",
-    "package": "SainTekno",
-    "version": "3.13",
+    "package": "themekit",
+    "version": "3.17.0",
     "author": "SainTekno",
     "author uri": "http://saintekno.id",
     "email": "sainteknoid@gmail.com",
