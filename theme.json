@@ -8,6 +8,8 @@
     "author uri": "http://saintekno.id",
     "email": "sainteknoid@gmail.com",
     "description": "Users by SainTekno",
-    "updated": "00.00.0000"
-  }
+    "updated": "00.00.0000",
+    "readonly": false
+  },
+  "group": "By ThemeKit"
 }
