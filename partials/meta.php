@@ -9,4 +9,4 @@ $favicon = ($favicon = riake('favicon', $App_Options)) ? upload_url('media/thumb
 <link rel="canonical" href="<?php echo site_url();?>">
     
 <!-- Site Title -->
-<title><?php echo riake('site_name', $App_Options); ?> - <?php echo riake('site_title', $App_Options); ?></title>
+<title><?php echo ($title = Polatan::get_title()) ? $title .'-' : ''; ?> <?php echo riake('site_name', $App_Options); ?></title>

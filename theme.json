@@ -3,6 +3,7 @@
     "name": "ThemeKit",
     "namespace": "themekit",
     "package": "themekit",
+    "type": "themekit",
     "version": "3.17.0",
     "author": "SainTekno",
     "author uri": "http://saintekno.id",
@@ -10,6 +11,5 @@
     "description": "Users by SainTekno",
     "updated": "00.00.0000",
     "readonly": false
-  },
-  "group": "By ThemeKit"
+  }
 }
